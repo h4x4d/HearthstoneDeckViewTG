@@ -1,5 +1,6 @@
-# HearthstoneDeckViewDS
+# HearthstoneDeckViewTG
 #### [Version for VK](https://github.com/h4x4d/HearthstoneDeckView)
+#### [Version for DS](https://github.com/h4x4d/HearthstoneDeckViewDS)
 
 Bot which creates pictures like this:
 
@@ -11,6 +12,9 @@ Bot which creates pictures like this:
 
 ## DISCORD BOT: Elise | Deck Viewer#8704
 ### Invite link: https://bit.ly/deck_view_ds
+
+## TELEGRAM BOT: @deckview_bot
+### Invite link: https://t.me/deckview_bot
 
 
 # Installing
