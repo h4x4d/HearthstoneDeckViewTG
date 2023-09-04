@@ -1,0 +1,9 @@
+.idea/*
+.idea
+
+.env
+
+venv/
+env/
+
+cards/
